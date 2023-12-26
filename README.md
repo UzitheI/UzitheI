@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Puri</h1>
 <h3 align="center">A passionate software developer from Nepal</h3>
-<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="image" width="100">
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="image" width="400">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzithei&label=Profile%20views&color=0e75b6&style=flat" alt="uzithei" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uzithei" alt="uzithei" /></a> </p>
@@ -29,4 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uzithei&show_icons=true&locale=en" alt="uzithei" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzithei&" alt="uzithei" /></p>
-
