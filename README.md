@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ujjwal Puri</h1>
 <h3 align="center">A passionate software developer from Nepal</h3>
-<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="image" width="400">
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="image" width="100">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzithei&label=Profile%20views&color=0e75b6&style=flat" alt="uzithei" /> </p>
 
