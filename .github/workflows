@@ -65,19 +65,12 @@ jobs:
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_poopmap: yes
-          plugin_poopmap_days: 7
           plugin_screenshot: yes
           plugin_screenshot_background: yes
           plugin_screenshot_mode: image
           plugin_screenshot_selector: body
           plugin_screenshot_title: Uzipuziscuzi
           plugin_screenshot_url: https://ujjwalpuri.com.np
-          plugin_screenshot_viewport: {
-  "width": 1280,
-  "height": 1280
-}
-
           plugin_wakatime: yes
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
@@ -85,3 +78,7 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com/@UzitheI
           plugin_wakatime_user: UzitheI
+          plugin_screenshot_viewport: {
+  "width": 1280,
+  "height": 1280
+}
