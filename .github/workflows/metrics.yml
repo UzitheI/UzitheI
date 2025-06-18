@@ -78,7 +78,8 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com/@UzitheI
           plugin_wakatime_user: UzitheI
-          plugin_screenshot_viewport: {
-  "width": 1280,
-  "height": 1280
-}
+          plugin_screenshot_viewport: |
+            {
+              "width": 1280,
+              "height": 1280
+            }
