@@ -5,11 +5,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=UzitheI&theme=dracula&hide_border=true" alt="activity graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=UzitheI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=UzitheI&layout=compact&theme=dracula&langs_count=8" height="150" alt="languages graph"  />
 </div>
 
 ###
-
 <img align="right" height="150" src="https://media.tenor.com/WlJsOVX2lysAAAAi/cat-tongue-cat.gif"  />
 
 ###
