@@ -1,4 +1,4 @@
-<img width="957" alt="kayo-chan" src="https://www.icegif.com/wp-content/uploads/2024/02/icegif-124.gif">
+<img width="957" alt="kayo-chan" src="https://i.pinimg.com/originals/39/f9/5f/39f95fd4e05c7a512f86a65f690e007d.gif">
 
 <h2 align="left">Hi 👋! My name is Ujjwal Puri and I'm a Software and ML Engineer, from Nepal.</h2>
 
