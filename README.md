@@ -1,4 +1,4 @@
-<img width="957" alt="kayo-chan" src="https://github.com/user-attachments/assets/f423798c-1161-4c3b-b4c0-199e6d62c024">
+<img width="957" alt="kayo-chan" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyc2diZHlwMXc1eGo3bzB1dnphbmhjaWZzcTBldGNnNW4yNGZnZGtybCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GY3eoqSJyc2m4/giphy.gif">
 
 <h2 align="left">Hi 👋! My name is Ujjwal Puri and I'm a Software and ML Engineer, from Nepal.</h2>
 
