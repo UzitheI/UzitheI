@@ -11,7 +11,7 @@
 
 ###
 
-<div class="tenor-gif-embed" data-postid="6508383405014947627" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cat-tongue-cat-cats-ahh-excited-gif-6508383405014947627">Cat Tongue Cats Sticker</a>from <a href="https://tenor.com/search/cat+tongue-stickers">Cat Tongue Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" height="150" src="https://media.tenor.com/WlJsOVX2lysAAAAi/cat-tongue-cat.gif"  />
 
 ###
 
