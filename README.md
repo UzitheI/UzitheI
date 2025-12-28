@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://tenor.com/view/cat-tongue-cat-cats-ahh-excited-gif-6508383405014947627"  />
+<img align="right" height="150" src="https://media.tenor.com/Z2JqPhhKh3IAAAAC/cat-tongue-cat.gif"  />
 
 ###
 
