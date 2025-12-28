@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=UzitheI&theme=dracula" height="170" alt="streak stats"  />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UzitheI&theme=dracula" alt="profile summary"  />
+  <img src="https://github-profile-summary-cards.herokuapp.com/api/cards/profile-details?username=UzitheI&theme=dracula" alt="profile summary"  />
 </div>
 
 ###
