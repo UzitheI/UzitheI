@@ -1,4 +1,4 @@
-<img width="957" alt="kayo-chan" src="https://media.tenor.com/M8NOboaCB2MAAAAM/peter-griffin-nails.gif">
+<img width="500" alt="kayo-chan" src="https://media.tenor.com/M8NOboaCB2MAAAAM/peter-griffin-nails.gif">
 
 <h2 align="left">Hi 👋! My name is Ujjwal Puri and I'm a Software and ML Engineer, from Nepal.</h2>
 
