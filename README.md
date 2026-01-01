@@ -1,18 +1,11 @@
 <img width="500" alt="banner" src="https://media.tenor.com/M8NOboaCB2MAAAAM/peter-griffin-nails.gif">
 
 <h1 align="center">Hi 👋 I'm Ujjwal Puri</h1>
-<h3 align="center">Software & ML Engineer | AI Researcher 🇳🇵</h3>
 
 <p align="center">
   <a href="https://ujjwalpuri.com.np">🌐 Portfolio</a> •
   <a href="https://ujjwalpuri.com.np/Ujjwal_Puri_Resume.pdf">📄 Resume</a>
 </p>
-
-###
-
-## 👨‍💻 About Me
-
-Third-year Computer Science student passionate about building scalable backend systems and AI solutions.
 
 ###
 
